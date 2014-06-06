@@ -1,0 +1,12 @@
+#Set Haswell information
+#Fri Jun 06 18:50:58 EST 2014
+DB.Url=jdbc\:mysql\://localhost/127.0.0.1\:42422\:42422
+DB.JdbcDriver=com.mysql.jdbc.Driver
+DB.Pass=
+EXP.NumOfRowUpdate=20
+DB.TableSize=100000
+EXP.WarmUp=10
+EXP.Duration=300
+EXP.NumOfRowRead=100
+DB.User=root
+DB.Database=txbench
